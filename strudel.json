@@ -1,3 +1,4 @@
 {
- "moomin": "moomin.wav"
+ "_base": "https://raw.githubusercontent.com/qterisse/strudel-samples/main/",
+ "moomin": ["moomin.wav"]
 }
