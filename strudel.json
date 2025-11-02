@@ -1,4 +1,5 @@
 {
  "_base": "https://raw.githubusercontent.com/qterisse/strudel-samples/main/",
  "moomin": ["00_moomin.wav"]
+ "breaks": ["11_break.wav"]
 }
